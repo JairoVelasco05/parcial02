@@ -1,0 +1,1 @@
+Wilmer creó la estructura HTML, diseñó la barra de navegación y añadió las imágenes de las secciones principales, asegurando su correcta alineación. Jairo se encargó de la estilización, efectos visuales y organización del contenido, además de diseñar el pie de página con un toque personalizado.
